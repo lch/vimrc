@@ -1,6 +1,11 @@
 # vimrc
-A self-use vim config file.
+A self-using vim config file on remote host.
 ## Functions
-For now, this config file has only one function that it is disable the mouse mode, which is opened for default in vim 8.0+. 
+
+	* Disable mouse mode
+	* Enable syntax highlight
+	* Enable line number display
+	* Enable paste mode
+
 ## License
 The project was licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html).
